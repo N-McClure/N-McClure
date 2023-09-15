@@ -1,1 +1,1 @@
-<img alt="Globe" height="80" src="my_Name-Mr_Robot.png">
+<img src="my_Name-Mr_Robot.png">
