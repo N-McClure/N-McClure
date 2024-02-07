@@ -5,6 +5,8 @@
   I am a Software Engineer, Web Developer, and Computer Nerd who likes to build cool things with tech.
   I dabble with a variety of Languages, Frameworks, and Technologies but here are some that I have Experience with and am Confident to build with: 
 
+  <br>
+
   Front-End:
   <ul>
     <li>HTML 5</li>
@@ -16,6 +18,8 @@
     <li>WPF</li>
     <li>XAML</li>
   </ul>
+
+<br>
 
   Back-End:
   <ul>
