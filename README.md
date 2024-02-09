@@ -35,5 +35,13 @@
     <li>MySQL</li>
     <li>MongoDB</li>
   </ul>
+
+  Hard-Ware / Robotics:
+  <ul>
+    <li>C++</li>
+    <li>Arduino</li>
+    <li>Rasberry-Pi</li>
+  </ul>
+  
 </strong>
 
