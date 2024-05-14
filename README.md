@@ -24,8 +24,7 @@
   Back-End:
   <ul>
     <li>Java</li>
-    <li>SpringBoot</li>
-    <li>Framework</li>
+    <li>SpringBoot Framework </li>
     <li>OOP</li>
     <li>C#</li>
     <li>.Net Core</li>
