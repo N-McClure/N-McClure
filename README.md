@@ -26,6 +26,7 @@
     <li>Java</li>
     <li>SpringBoot Framework </li>
     <li>OOP</li>
+    <li>Python</li>
     <li>C#</li>
     <li>.Net Core</li>
     <li>.Net Standard</li>
