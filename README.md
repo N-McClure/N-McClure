@@ -6,18 +6,17 @@
   I dabble with a variety of Languages, Frameworks, and Technologies but here are some that I have Experience with and am Confident to build with: 
 
   <br>
-
-  Front-End:
-  <ul>
-    <li>HTML 5</li>
-    <li>JavaScript</li>
-    <li>CSS</li>
-    <li>Angular</li>
-    <li>TypeScript</li>
-    <li>Windows Forms</li>
-    <li>WPF</li>
-    <li>XAML</li>
-  </ul>
+<table>
+  <th>Front-End:</th>
+    <tr><td>HTML 5</td></tr>
+    <tr><td>JavaScript</td></tr>
+    <tr><td>CSS</td></tr>
+    <tr><td>Angular</td></tr>
+    <tr><td>TypeScript</td></tr>
+    <tr><td>Windows Forms</td></tr>
+    <tr><td>WPF</td></tr>
+    <tr><td>XAML</td></tr>
+</table>
 
 <br>
 
