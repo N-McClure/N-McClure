@@ -20,38 +20,27 @@
 </table>
 
 <table>
-  <th>Front-End:</th>
-    <tr><td>HTML 5</td></tr>
-    <tr><td>JavaScript</td></tr>
-    <tr><td>CSS</td></tr>
-    <tr><td>Angular</td></tr>
+  <th>Back-End:</th>
+    <tr><td>Java</td></tr>
+    <tr><td>SpringBoot Framework</td></tr>
+    <tr><td>OOP</td></tr>
+    <tr><td>Python</td></tr>
+    <tr><td>C</td></tr>
+    <tr><td>C#</td></tr>
+    <tr><td>.Net Core</td></tr>
+    <tr><td>.Net Standard</td></tr>
     <tr><td>TypeScript</td></tr>
-    <tr><td>Windows Forms</td></tr>
-    <tr><td>WPF</td></tr>
-    <tr><td>XAML</td></tr>
+    <tr><td>PHP</td></tr>
+    <tr><td>MySQL</td></tr>
+    <tr><td>MongoDB</td></tr>
 </table>
 
-  Back-End:
-  <ul>
-    <li>Java</li>
-    <li>SpringBoot Framework </li>
-    <li>OOP</li>
-    <li>Python</li>
-    <li>C#</li>
-    <li>.Net Core</li>
-    <li>.Net Standard</li>
-    <li>TypeScript</li>
-    <li>PHP</li>
-    <li>MySQL</li>
-    <li>MongoDB</li>
-  </ul>
-
-  Hard-Ware / Robotics:
-  <ul>
-    <li>C++</li>
-    <li>Arduino</li>
-    <li>Rasberry-Pi</li>
-  </ul>
+<table>
+  <th>Hard-Ware / Robotics:</th>
+    <tr><td>C++</td></tr>
+    <tr><td>Arduino</td></tr>
+    <tr><td>Raspberry-Pi</td></tr>
+</table>
   
 </strong>
 
