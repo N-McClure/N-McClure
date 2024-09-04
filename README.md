@@ -6,7 +6,7 @@
   I dabble with a variety of Languages, Frameworks, and Technologies but here are some that I have Experience with and am Confident to build with: 
 
   <br><br>
-<div class="skillsGrid" style="display:grid;">
+<div class="skillsGrid" style="display:inline-grid;">
 <table>
   <th>Front-End:</th>
     <tr><td>HTML 5</td></tr>
