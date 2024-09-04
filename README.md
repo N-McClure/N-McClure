@@ -6,8 +6,8 @@
   I dabble with a variety of Languages, Frameworks, and Technologies but here are some that I have Experience with and am Confident to build with: 
 
   <br><br>
-<div class="skillsGrid" style="display:inline-grid;">
-<table>
+  
+<table style="display:inline-grid;">
   <th>Front-End:</th>
     <tr><td>HTML 5</td></tr>
     <tr><td>JavaScript</td></tr>
@@ -52,7 +52,6 @@
     <li>Arduino</li>
     <li>Rasberry-Pi</li>
   </ul>
-  </div>
   
 </strong>
 
