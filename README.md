@@ -6,7 +6,7 @@
   I dabble with a variety of Languages, Frameworks, and Technologies but here are some that I have Experience with and am Confident to build with: 
 
   <br><br>
-<div class="skillsGrid" >
+<div class="skillsGrid" style="display:grid;">
 <table>
   <th>Front-End:</th>
     <tr><td>HTML 5</td></tr>
@@ -56,9 +56,4 @@
   
 </strong>
 
-<style>
-  .skillsGrid{
-    display: grid;
-  }
-</style>
 
