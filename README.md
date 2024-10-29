@@ -44,4 +44,14 @@
   
 </strong>
 
+<hr>
+
+<h1>My TryHackMe Badges</h1>
+![image](https://github.com/user-attachments/assets/aa08f530-499e-4676-8f87-4f29f112d88f) ![image](https://github.com/user-attachments/assets/35004d64-d949-47e2-a467-202e91eae865)
+![image](https://github.com/user-attachments/assets/f401a517-468e-4e3e-9ec1-eadb9c394786) ![image](https://github.com/user-attachments/assets/63fa8567-200a-41d8-9bfa-ea79f73062c5)
+
+
+
+
+
 
