@@ -19,7 +19,7 @@
     <tr><td>XAML</td></tr>
 </table>
 
-<table>
+<table style="display:inline-grid;">
   <th>Back-End:</th>
     <tr><td>Java</td></tr>
     <tr><td>SpringBoot Framework</td></tr>
@@ -35,7 +35,7 @@
     <tr><td>MongoDB</td></tr>
 </table>
 
-<table>
+<table style="display:inline-grid;">
   <th>Hard-Ware / Robotics:</th>
     <tr><td>C++</td></tr>
     <tr><td>Arduino</td></tr>
