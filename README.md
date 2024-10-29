@@ -1,57 +1,25 @@
 ![my_Name-Mr_Robot](https://github.com/N-McClure/N-McClure/assets/64433966/4e9e32e2-c3a8-4807-bd4f-c1fc377f72a5)
 
-<h1>Hello world, I am Nick! 👋🏻</h1>
-<strong>
-  I am a Software Engineer, Web Developer, and Computer Nerd who likes to build cool things with tech.
-  I dabble with a variety of Languages, Frameworks, and Technologies but here are some that I have Experience with and am Confident to build with: 
+<h1 align="center">Hi 👋, I'm Nick.</h1>
+<h3 align="center">A Web Developer, Software Engineer, Computer Programming Graduate, and Cyber Security Student From Ontario, Canada</h3>
 
-  <br><br>
-  
-<table style="display:inline-grid;">
-  <th>Front-End:</th>
-    <tr><td>HTML 5</td></tr>
-    <tr><td>JavaScript</td></tr>
-    <tr><td>CSS</td></tr>
-    <tr><td>Angular</td></tr>
-    <tr><td>TypeScript</td></tr>
-    <tr><td>Windows Forms</td></tr>
-    <tr><td>WPF</td></tr>
-    <tr><td>XAML</td></tr>
-</table>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=n-mcclure&label=Profile%20views&color=0e75b6&style=flat" alt="n-mcclure" /> </p>
 
-<table style="display:inline-grid;">
-  <th>Back-End:</th>
-    <tr><td>Java</td></tr>
-    <tr><td>SpringBoot Framework</td></tr>
-    <tr><td>OOP</td></tr>
-    <tr><td>Python</td></tr>
-    <tr><td>C</td></tr>
-    <tr><td>C#</td></tr>
-    <tr><td>.Net Core</td></tr>
-    <tr><td>.Net Standard</td></tr>
-    <tr><td>TypeScript</td></tr>
-    <tr><td>PHP</td></tr>
-    <tr><td>MySQL</td></tr>
-    <tr><td>MongoDB</td></tr>
-</table>
+- 🎓 I’m currently working on **Getting my Bachelor's Degree in Cybersecurity**
 
-<table style="display:inline-grid;">
-  <th>Hard-Ware / Robotics:</th>
-    <tr><td>C++</td></tr>
-    <tr><td>Arduino</td></tr>
-    <tr><td>Raspberry-Pi</td></tr>
-</table>
-  
-</strong>
+- 🧑🏻‍💻 I’m currently developing [Food-E, a recipe sharing social media platform](https://github.com/N-McClure/Food-E)
 
-<hr>
+- 👨‍💻 My Portfolio: [https://n-mcclure.github.io/](https://n-mcclure.github.io/)
 
-<h1>My TryHackMe Badges</h1>
-![image](https://github.com/user-attachments/assets/aa08f530-499e-4676-8f87-4f29f112d88f) ![image](https://github.com/user-attachments/assets/35004d64-d949-47e2-a467-202e91eae865)
-![image](https://github.com/user-attachments/assets/f401a517-468e-4e3e-9ec1-eadb9c394786) ![image](https://github.com/user-attachments/assets/63fa8567-200a-41d8-9bfa-ea79f73062c5)
+- 📫 How to reach me **nmcclure0330@gmail.com**
 
+- ⚡ Fun fact **I am crazy about Camping and Bushcraft.**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nick-mcclure-578565295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nick-mcclure-578565295" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@nickmcclure_programmingguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@nickmcclure_programmingguy" height="30" width="40" /></a>
+</p>
 
-
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
