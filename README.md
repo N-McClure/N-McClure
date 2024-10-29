@@ -1,6 +1,6 @@
 ![my_Name-Mr_Robot](https://github.com/N-McClure/N-McClure/assets/64433966/4e9e32e2-c3a8-4807-bd4f-c1fc377f72a5)
 
-<h1>Hello world, I am Nick!</h1> ![ForestGumpGIF](https://github.com/user-attachments/assets/4dc00e95-88b8-4e28-a8ff-236cee9083af)
+<h1>Hello world, I am Nick! 👋🏻</h1>
 <strong>
   I am a Software Engineer, Web Developer, and Computer Nerd who likes to build cool things with tech.
   I dabble with a variety of Languages, Frameworks, and Technologies but here are some that I have Experience with and am Confident to build with: 
