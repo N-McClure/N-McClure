@@ -11,7 +11,7 @@
 
 - 👨‍💻 My Portfolio: [https://n-mcclure.github.io/](https://n-mcclure.github.io/)
 
-- 📫 How to reach me: [Email Me!](nmcclure0330@gmail.com)
+- 📫 How to reach me: [Email Me!](mailto:nmcclure0330@gmail.com)
 
 - 🏕️ Fun fact **I am crazy about Camping and Bushcraft.**
 
