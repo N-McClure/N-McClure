@@ -22,7 +22,7 @@
 </p>
 
 <h3 align="center">Languages and Technologies I use: </h3>
-<p align="left"><strong>Robotics and Hardware: </strong><hr><br><br>
+<p align="left"><strong>Robotics and Hardware: </strong><br><br>
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
