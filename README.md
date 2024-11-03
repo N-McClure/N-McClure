@@ -16,13 +16,13 @@
 - 🏕️ Fun fact **I am crazy about Camping and Bushcraft.**
 
 <h3 align="left">My Socials:</h3>
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/nick-mcclure-578565295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nick-mcclure-578565295" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@nickmcclure_programmingguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@nickmcclure_programmingguy" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Technologies I use: </h3>
-<p align="left"><strong>Robotics and Hardware: </strong><br><br>
+<p align="center"><strong>Robotics and Hardware: </strong><br><br>
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 
