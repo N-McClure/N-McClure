@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/N-McClure/N-McClure/my_Name-Mr_Robot.png"> </p>
+<p align="center"> <img src="https://github.com/N-McClure/N-McClure/blob/main/my_Name-Mr_Robot.png"> </p>
 <h1 align="center">Hi 👋, I'm Nick.</h1>
 <h3 align="center">A Web Developer, Software Engineer, Computer Programming Graduate, and Cyber Security Student From Ontario, Canada</h3>
 
