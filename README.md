@@ -1,5 +1,4 @@
-<p align="center"> ![my_Name-Mr_Robot](https://github.com/N-McClure/N-McClure/assets/64433966/4e9e32e2-c3a8-4807-bd4f-c1fc377f72a5) </p>
-
+<p align="center"> <img src="![my_Name-Mr_Robot](https://github.com/N-McClure/N-McClure/assets/64433966/4e9e32e2-c3a8-4807-bd4f-c1fc377f72a5)"> </p>
 <h1 align="center">Hi 👋, I'm Nick.</h1>
 <h3 align="center">A Web Developer, Software Engineer, Computer Programming Graduate, and Cyber Security Student From Ontario, Canada</h3>
 
