@@ -6,7 +6,7 @@
 
 - 🎓 I’m currently working on **Getting my Bachelor's Degree in Cybersecurity**
 
-- 🧑🏻‍💻 I’m currently developing CanScan, An application that scans product barcodes and returns of they are canadian or not.
+- 🧑🏻‍💻 I’m currently developing PhishTrap, A chrome extension that utilizes AI to scan and analyze your Gmail Inbox for potentially Phishy or Dangerous emails.
 
 - 👨‍💻 My Portfolio: [https://n-mcclure.github.io/](https://n-mcclure.github.io/)
 
